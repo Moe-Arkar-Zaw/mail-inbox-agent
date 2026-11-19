@@ -6,3 +6,5 @@
 
 2.
 -Added label to message (gmail node)
+-mail fetch test event
+-mail trigger -> email classifier
