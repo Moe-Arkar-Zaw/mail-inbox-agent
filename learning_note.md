@@ -12,3 +12,4 @@
 3.
 -Added email reply (gmail note)
 -execute entire flow again
+-added all notes to compte the end-to-end flow
